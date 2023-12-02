@@ -1,5 +1,3 @@
-// YourReactComponent.js
-
 import React from "react";
 import "../App.css"; // Importing the styles
 import user from "../User.js";
